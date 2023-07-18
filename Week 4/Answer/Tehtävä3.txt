@@ -1,0 +1,13 @@
+Tehtävä3:
+
+OTP relaatiotietokannan laatua voi edistää:
+
+1.Panostamalla normalisaatioon sääntöihin eli tavoitteena tarpeettoman toiston ja poikkeuksien poistaminen.
+
+2.Luomalla tehokas tietokanta, mikäli data volyymi kasvaisi suureksi. Tarpeettomat taulut pois jne.
+
+3.Jokainen tietokanta tulisi? normalisoida kolmanteen muotoon.
+
+4.Panostamalla taulujen nimeämiskäytäntöihin.
+
+5.Tietojen viittausten tulee perustua liiketoimintalogiikkaan, muuten tietokannasta tulee altis inhimillisille virheille.
