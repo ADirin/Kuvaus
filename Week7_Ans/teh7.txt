@@ -1,0 +1,7 @@
+käyttäjä:
+pystyy ostamaan lipun
+näyttämään lipun
+etsi reitin
+
+tarkistaja:
+pystyy tarkistamaan lipun
